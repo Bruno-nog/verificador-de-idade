@@ -23,7 +23,7 @@ O site foi construído de uma forma que fosse bastante prático e intuitivo de s
 
 ## Demo
 
-[Link para a demonstração do projeto](https://exemplo.com)
+[Link para a demonstração do projeto](https://bruno-nog.github.io/verificador-de-idade/)
 
 ## Contato
 
